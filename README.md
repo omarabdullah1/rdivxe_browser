@@ -65,7 +65,7 @@ We welcome contributions! Here's how you can help:
 5. Create a pull request.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
 
 ## Contact
 For inquiries, suggestions, or feedback:
